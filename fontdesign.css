@@ -1,0 +1,29 @@
+#lined{
+ color: blue;
+}
+#font{
+    text-decoration:underline ;
+}
+#class{
+    color: blueviolet;
+    font-weight: bold;
+    font-style: italic;
+}
+#line{
+    color: chartreuse;
+font-variant: small-caps;}
+#small {font-variant: small-caps;}
+
+#caps{   color: brown; 
+    font-family:cursive;
+text-decoration: line-through;}
+
+#sans{ color: darkblue;
+    letter-spacing: -8px;
+}
+#letter{ color: darkorange;
+    text-decoration:overline;
+}
+#over{
+    font-family: sans-serif ;
+}
